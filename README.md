@@ -1,3 +1,21 @@
+
+# Installing PyTables
+
+```
+pip install pyinstaller
+pyinstaller --onefile -w (if you got some opening windows
+```
+
+# Installing PyTables
+
+```
+https://www.pytables.org/usersguide/installation.html
+
+(jupyter_conda_python_3.8) C:\Users\Yuan>
+
+>> conda install pytables
+```
+
 # DBF_DBC_converter
 
 ```
