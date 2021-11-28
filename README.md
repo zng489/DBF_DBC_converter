@@ -4,6 +4,9 @@
 ```
 pip install pyinstaller
 pyinstaller --onefile -w (if you got some opening windows
+
+e.g
+>> pyinstaller --onefile main.py
 ```
 
 # Installing PyTables
